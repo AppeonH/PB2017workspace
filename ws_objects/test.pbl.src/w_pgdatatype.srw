@@ -260,7 +260,7 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-string text = "none"
+string text = "3453454"
 end type
 
 event clicked;String		ls_boolean
